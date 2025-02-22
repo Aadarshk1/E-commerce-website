@@ -20,7 +20,7 @@ These instructions will help you to run the e-commerce website on your local mac
 ### Running the application
 
 1. Clone the repository:
-git clone https://github.com/aadarshkumar/ecommerce.git
+git clone https://github.com/Aadarshk1/ecommerce.git
 
 2. Navigate to the cloned repository:
 cd ecommerce
