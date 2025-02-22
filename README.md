@@ -6,10 +6,7 @@ A simple e-commerce website built with HTML, CSS, and JavaScript.
 - Product catalog with descriptions and images
 - Shopping cart for adding and removing products
 - Checkout page for ordering and payment processing
-- Responsive design for desktop and mobile devices
-
-## Screenshots
-![Screenshot (229)](https://user-images.githubusercontent.com/90265701/189528217-6b5ceb80-73e2-462b-ae58-b934a6aef191.png)
+- Responsive design for desktop and mobile device
 
 
 ## Getting Started
